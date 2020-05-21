@@ -1846,6 +1846,11 @@
     <priority>.5</priority>
   </url>
   <url>
+    <loc>https://docs.amplify.aws/sdk/storage/configure-access/q/platform/android</loc>
+    <changefreq>hourly</changefreq>
+    <priority>.5</priority>
+  </url>
+  <url>
     <loc>https://docs.amplify.aws/sdk/storage/configure-access/q/platform/ios</loc>
     <changefreq>hourly</changefreq>
     <priority>.5</priority>
